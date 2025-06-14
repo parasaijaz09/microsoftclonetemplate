@@ -29,10 +29,6 @@ Edit
 3. Open `index.html` in any modern browser.
 4. You’re ready to go!
 
-## 📷 Screenshots
-
-![Preview](https://i.postimg.cc/s1F7PrsG/Chat-GPT-Image-Jun-14-2025-08-02-24-PM.png)
-
 ## 📚 Credits
 
 - [Font Awesome](https://fontawesome.com/)
